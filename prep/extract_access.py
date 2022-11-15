@@ -24,4 +24,7 @@ print(len(output))
 
 # output format
 output = '\n'.join(output)
-print(output)
+
+text_file = open("accession.txt", "w")
+n = text_file.write(output)
+text_file.close()
