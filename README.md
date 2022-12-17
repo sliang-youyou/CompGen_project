@@ -1,5 +1,5 @@
 # CompGen_project
-Phylogenetic Analysis of Monkeypox Lineage found in U.S.A. 2021-2022
+The Adaptive Evolution of Monkeypox Lineage found in U.S.A. 2021-2022
 
 This project focuses on studying the site-level selection of the Monkeypox genes related to virulence and transmissibility. The following computational pipeline is available for replication and further research.
 Involved datasets and softwares should be found in folders named after sections.
