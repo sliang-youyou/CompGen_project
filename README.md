@@ -48,4 +48,8 @@ MEME:
 
 *If encounter any choice of parameters not mentioned here, choose the default values*
 
+# Results
+The dn/ds analysis results are presented in json formats, which can be visualized with [Hyphy Vision](http://vision.hyphy.org/).
+
+
 Thank you for reading through our methods. We look forward to your suggestions on our project.
